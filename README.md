@@ -6,6 +6,7 @@ I work across product UI, backend workflows, developer tooling, and AI integrati
 
 ## Selected public work
 
+- [CALSync](https://github.com/itsklimov/CALSync) - Private macOS menu bar app that keeps your Macs from double-booking each other; notarized, Sparkle auto-updates, self-hosted relay.
 - [mi-work](https://github.com/itsklimov/mi-work) - Native macOS AI agent interface with multi-session tabs, local tools, and sub-agents.
 - [figma-rn](https://github.com/itsklimov/figma-rn) - MCP server that converts Figma screens into React Native code through a single tool call.
 - [macSTT](https://github.com/itsklimov/macSTT) - macOS-native speech-to-text app with local transcription and release automation.
